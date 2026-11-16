@@ -89,6 +89,8 @@ def run_scaling_simulation():
         if r in epochs:
             distribution_history[r] = (wealth.copy(), current_owner_wealth)
 
+    
+#USED SOME AI FOR PLOTLY SETTINGS
     # =====================================================================
     # 2. Three panels
     # =====================================================================
@@ -229,3 +231,5 @@ def run_scaling_simulation():
 
 if __name__ == "__main__":
     run_scaling_simulation()
+
+#Pras Ἀπόλλων
